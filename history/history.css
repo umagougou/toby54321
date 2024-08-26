@@ -1,0 +1,50 @@
+body{
+    width: 100%;
+    min-width: 600px;
+    max-width: 960px;
+    margin: 0 auto;
+    text-align: center;
+}
+header{
+    margin: 1%;
+    background: #eaeaea;
+
+}
+nav{
+    margin: 1%;
+    color: #eaeaea;
+    background: #0f0f0f;
+}
+main{
+    float: right;
+    width: 81%;
+    height: 3200px;
+    background-color: burlywood;
+    margin:1% ;
+}
+aside{
+    float: left;
+    width: 15%;
+    height: 3200px;
+    margin: 1%;
+    background-color: #dfed8a;
+}
+footer{
+    clear: left;
+    background-color: rgb(171, 197, 245);
+    
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.p{
+    height: 150px;
+}
+.U{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      
+}
+.J{
+    width: 100%;
+}
